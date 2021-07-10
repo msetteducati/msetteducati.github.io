@@ -23,7 +23,7 @@ email: michael.setteducati.setteducati
 description: >-
   My personal website!
 domain: msetteducati.github.io
-baseurl: /msetteducati.github.io/
+baseurl: ""
 url: https://msetteducati.github.io
 github_username:  msetteducati
 
