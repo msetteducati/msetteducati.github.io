@@ -2,7 +2,6 @@
 layout: default
 title: Research
 permalink: /research/
-weight: 3
 ---
 
 # Quantitative Simulation Model Validation

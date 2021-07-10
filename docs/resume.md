@@ -1,9 +1,7 @@
 ---
-
 layout: default
 title: Resume
 permalink: /resume/
-weight: 2
 ---
 
 ## Work Experience
