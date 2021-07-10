@@ -1,0 +1,26 @@
+title: michael setteducati
+author:
+  name: Michael Setteducati
+  email: michael.setteducati@gmail.com
+description: >-
+  My personal website!
+
+domain: msetteducati.github.io
+baseurl: ""
+url: https://msetteducati.github.io
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: msetteducati
+    linkedin: michaelsetteducati
+
+# Config
+header_pages:
+  - resume.md
+  - research.md
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
