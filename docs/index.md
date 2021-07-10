@@ -5,7 +5,7 @@ permalink: /
 weight: 1
 ---
 
-## Welcome, my name is Michael Setteducati
+## Welcome, my name is Michael
 
 ![That's me!](/assets/michaelsetteducati.jpg){: style="float: left; width: 200px; padding-right: 20px;"}
 
