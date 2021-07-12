@@ -24,3 +24,6 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  sass_dir: assets/css
+  style: compressed
