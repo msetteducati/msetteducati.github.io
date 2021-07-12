@@ -47,7 +47,9 @@ permalink: /resume/
 ## Technical Skills
 
 **Proficient In**: C# (.NET), Java (Spring, Micronaut), JavaScript, TypeScript, Angular, SQL, Git
+
 **Experience With**: AWS, Python, PHP, C, NoSQL
+
 **Interested In**: Node.js, Go, Machine Learning, Blockchain
 
 ## Education
