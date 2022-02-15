@@ -21,7 +21,6 @@ header_pages:
   - research.md
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
