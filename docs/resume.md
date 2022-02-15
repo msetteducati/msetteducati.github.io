@@ -6,51 +6,43 @@ permalink: /resume/
 
 ## Work Experience
 
-### Linear Financial Technologies
+### Amount Small Business 
+*Software Engineer \| New York, NY \| January 2020 - Present*
+* Backend web development using Java and Golang in a microservices architecture
+* Integration with AWS services (EC2, ActiveMQ, Redis, Postgres, ElasticSearch)
+* Previously worked on a .NET team doing full stack development deployed on Azure infrastructure
 
-*Software Engineer \| New York, NY \| February 2021 - Present*
-* Backend API development using Java, Spring, and Micronaut
-* Integration with AWS services including Amazon MQ and EC2
-* Linear was formed through the combination of Fundation and ODX, and my role was carried over
-
-### Fundation Group, LLC
-
-*Software Engineer \| New York, NY \| January 2020 - February 2021*
-* Full stack web development using C# and .Net Framework MVC
-* Integration with Azure services including Service Bus and Azure VMs
+Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC. 
+Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount Small Business.
 
 ### Verisk Analytics
 
 *Software Developer \| Jersey City, NJ \| August 2018 - January 2020*
-* Full stack development of web applications using C# and AngularJs
-* Maintain internal auditing API using Java, AWS Lambda, API Gateway and DynamoDB
-* End-to-end development of batch programs responsible for ETL data processing using C#
-* Experience writing high performance SQL queries on large, complex data sets
-* Integration with AWS services including EC2, Batch, Lambda, SQS, API Gateway and ElasticSearch
+* Full stack web development and batch processing using .NET Framework, .NET Core, AngularJS, and Java
+* Integration with AWS services (EC2, Batch, Lambda, SQS, API Gateway, ElasticSearch)
 
 ### New Concepts for Living
 
 *Software Consultant \| Rochelle Park, NJ \| June 2018 - June 2019*
-* Full stack development of various web applications using .NET Core and Angular 7
-* Created batch applications to retrieve data from various Excel reports and store in SQL Server
+* Full stack web development and batch processing using .NET Core and Angular 7
 
-### United Parcel Service
+### United Parcel Service (UPS)
 
 *Human Resources Analytics Co-op \| Timonium, MD \| September 2017 - January 2018*
-* Worked on full stack development of a web application used by employees to access HR data using C#
+* Full stack web development using .Net Web Forms
 
-* Consumer Technology Quality Assurance Co-op \| Parsippany, NJ \| July 2017 - September 2017*
+*Consumer Technology Quality Assurance Co-op \| Parsippany, NJ \| July 2017 - September 2017*
 * Designed and executed test cases for widely used international shipping application
 
 *Human Resources Intern \| Mahwah, NJ \| May 2016 - February 2017*
 
 ## Technical Skills
 
-**Proficient In**: C# (.NET), Java (Spring, Micronaut), JavaScript, TypeScript, Angular, SQL, Git
+**Proficient In**: Java (Spring, Micronaut), Golang, C# (.NET), Javascript, SQL, Git
 
-**Experience With**: AWS, Python, PHP, C, NoSQL
+**Experience With**: AWS, Kubernetes, Jenkins, Python, NoSQL
 
-**Interested In**: Node.js, Go, Machine Learning, Blockchain
+**Interested In**: Blockchain, Machine Learning
 
 ## Education
 
