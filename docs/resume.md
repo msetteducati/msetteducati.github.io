@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Work Experience
 
-### Amount Small Business 
+### ![Amount Small Business](/assets/images/amount_icon.jpg) Amount Small Business 
 *Software Engineer \| New York, NY \| January 2020 - Present*
 * Backend web development using Java and Golang in a microservices architecture
 * Integration with AWS services (EC2, ActiveMQ, Redis, Postgres, ElasticSearch)
@@ -15,18 +15,18 @@ permalink: /resume/
 Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC. 
 Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount Small Business.
 
-### Verisk Analytics
+### ![Verisk Analytics](/assets/images/verisk_icon.jpeg) Verisk Analytics
 
 *Software Developer \| Jersey City, NJ \| August 2018 - January 2020*
 * Full stack web development and batch processing using .NET Framework, .NET Core, AngularJS, and Java
 * Integration with AWS services (EC2, Batch, Lambda, SQS, API Gateway, ElasticSearch)
 
-### New Concepts for Living
+### ![New Concepts for Living](/assets/images/ncfl_icon.jpeg) New Concepts for Living
 
 *Software Consultant \| Rochelle Park, NJ \| June 2018 - June 2019*
 * Full stack web development and batch processing using .NET Core and Angular 7
 
-### United Parcel Service (UPS)
+### ![UPS](/assets/images/ups_icon.jpeg) United Parcel Service (UPS)
 
 *Human Resources Analytics Co-op \| Timonium, MD \| September 2017 - January 2018*
 * Full stack web development using .Net Web Forms
@@ -46,7 +46,7 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 
 ## Education
 
-### Loyola University Maryland
+### ![Loyola University Maryland](/assets/images/loyola_icon.jpeg) Loyola University Maryland
 
 *Baltimore, MD \| Class of 2018*
 * Bachelor of Science, Magna Cum Laude, Computer Science
@@ -54,7 +54,7 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 * Presidential Scholar
 * Upsilon Pi Epsilon (UPE) Computer Science Honor Society
 
-### Bergen Catholic High School
+### ![Bergen Catholic High School](/assets/images/bergen_icon.jpeg) Bergen Catholic High School
 
 *Oradell, NJ \| Class of 2014*
 
