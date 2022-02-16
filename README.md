@@ -11,3 +11,9 @@ Personal website built using Jekyll to be hosted on GitHub Pages.
 On first run, run `bundle install`.
 
 To run locally, run `bundle exec jekyll serve`.
+
+## Branching
+
+Develop branch seems like overkill...
+
+Create feature branches, then merge directly to `main`.
