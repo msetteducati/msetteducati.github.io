@@ -7,12 +7,16 @@ permalink: /resume/
 ## Work Experience
 
 ### ![Amount Small Business](/assets/images/amount_icon.jpg) Amount Small Business 
-*Software Engineer \| New York, NY \| January 2020 - Present*
+*Senior Software Engineer \| New York, NY (Remote) \| February 2022 - Present*
 * Backend web development using Java and Golang in a microservices architecture
 * Integration with AWS services (EC2, ActiveMQ, Redis, Postgres, ElasticSearch)
+* Ownership of various platform features from early design phase to production deployments and meeting deadlines and deliverables throughout the process
+
+*Software Engineer \| New York, NY (Remote) \| January 2020 - February 2022*
+* Backend web development using Java and Golang in a microservices architecture
 * Previously worked on a .NET team doing full stack development deployed on Azure infrastructure
 
-Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC. 
+Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC.
 Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount Small Business.
 
 ### ![Verisk Analytics](/assets/images/verisk_icon.jpeg) Verisk Analytics
@@ -68,4 +72,4 @@ See [Research](/research) for more information.
 
 <br>
 
-[Download Resume PDF]({% link /assets/Setteducati_Resume.pdf %}){:target="_blank"}
+[Download Resume PDF]({% link /assets/Michael_Setteducati_Resume.pdf %}){:target="_blank"}
