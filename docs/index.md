@@ -8,7 +8,7 @@ permalink: /
 
 ![That's me!](/assets/images/michaelsetteducati.jpg){: style="float: left; width: 200px; padding-right: 20px;"}
 
-I am a Software Engineer at Amount Small Business, primarily working on backend microservices written in Java or Golang. 
+I am a Lead Software Engineer at Amount, primarily working on architecting and implementing backend microservices written in Java and Golang. 
 
 I graduated from Loyola University Maryland with a Bachelor of Science Degree in Computer Science.
 

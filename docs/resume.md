@@ -6,8 +6,15 @@ permalink: /resume/
 
 ## Work Experience
 
-### ![Amount Small Business](/assets/images/amount_icon.jpg) Amount Small Business 
-*Senior Software Engineer \| New York, NY (Remote) \| February 2022 - Present*
+### ![Amount](/assets/images/amount_icon.jpg) Amount Small Business 
+*Lead Software Engineer \| New York, NY (Remote) \| May 2022 - Present*
+* Lead a team of 3 to 5 backend engineers responsible for delivering core platform features on time
+* Architect scalable and high-performance solutions to satisfy business requirements within the scope of Amount’s rapidly evolving white label credit origination platform
+* Collaboratively led multiple key technology improvement initiatives, including the migration to using Temporal for workflow orchestration resulting in improved efficiency, visibility, and resiliency
+* Serve as the SME for critical microservices written in Java and Go, taking ownership of their design, development, and ongoing enhancements
+* Remain involved in hands-on development of these systems when possible
+
+*Senior Software Engineer \| New York, NY (Remote) \| February 2022 - May 2022*
 * Backend web development using Java and Golang in a microservices architecture
 * Integration with AWS services (EC2, ActiveMQ, Redis, Postgres, ElasticSearch)
 * Ownership of various platform features from early design phase to production deployments and meeting deadlines and deliverables throughout the process
@@ -17,7 +24,7 @@ permalink: /resume/
 * Previously worked on a .NET team doing full stack development deployed on Azure infrastructure
 
 Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC.
-Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount Small Business.
+Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount.
 
 ### ![Verisk Analytics](/assets/images/verisk_icon.jpeg) Verisk Analytics
 
