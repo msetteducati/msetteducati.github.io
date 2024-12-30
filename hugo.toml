@@ -1,0 +1,4 @@
+baseURL = 'https://michaelsetteducati.me/'
+languageCode = 'en-us'
+title = 'Michael Setteducati'
+theme = 'hugo-coder'
