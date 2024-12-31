@@ -7,8 +7,10 @@ params:
   author: Michael Setteducati
   description: Michael Setteducati's personal website
   info: 
-    - Software Engineer
+    - Software Engineer @ Meta
   avatarURL: images/profile.jpg
+  customCSS: 
+    - css/michaelsetteducati.css
   social:
     - name: Github
       icon: fa-brands fa-github fa-2x
