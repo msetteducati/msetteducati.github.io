@@ -1,19 +1,21 @@
 # msetteducati.github.io
 
-Personal website built using Jekyll to be hosted on GitHub Pages.
+Personal website built using Hugo to be hosted on GitHub Pages.
 
 ## Requirements
 
-* Ruby 2.7
+* [Hugo](https://gohugo.io/)
 
 ## To Run
 
-On first run, run `bundle install`.
+Run `make serve`. 
 
-To run locally, run `bundle exec jekyll serve`.
+Runs on port `1313` by default. 
 
-## Branching
+## Before Committing
 
-Develop branch seems like overkill...
+Run `make build` to ensure that `public/` directory has up to date content. 
 
-Create feature branches, then merge directly to `main`.
+## Theme
+
+Currently using [hugo-coder](https://github.com/luizdepra/hugo-coder/tree/main) theme. 
