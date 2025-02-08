@@ -71,9 +71,9 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 
 ### Quantitative Model Validation
 
-Developed web application used to quantitatively validate simulation models using Angular, Python, and Flask. 
-Related paper was published at the Summer Simulation Conference in 2018. 
-See [Research](/research) for more information.
+* Developed web application used to quantitatively validate simulation models using Angular, Python, and Flask. 
+* Related paper was published at the Summer Simulation Conference in 2018. 
+* See [Research](/research) for more information.
 
 <br>
 
