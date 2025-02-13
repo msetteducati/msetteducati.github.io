@@ -4,7 +4,8 @@ title = "Resume"
 
 ## Work Experience
 
-### ![Amount](/images/amount_icon.jpg "resume-icon") Amount Small Business 
+### ![Amount](./images/amount_icon.png "resume-icon") Amount Small Business 
+
 *Lead Software Engineer \| New York, NY (Remote) \| May 2022 - Present*
 * Lead a team of 3 to 5 backend engineers responsible for delivering core platform features on time
 * Architect scalable and high-performance solutions to satisfy business requirements within the scope of Amount’s rapidly evolving white label credit origination platform
@@ -24,18 +25,18 @@ title = "Resume"
 Amount Small Business was previously known as Linear Financial Technologies and Fundation Group LLC.
 Now a part of Amount, my role has been carried through from Fundation, to Linear, to Amount.
 
-### ![Verisk Analytics](/images/verisk_icon.jpeg "resume-icon") Verisk Analytics
+### ![Verisk Analytics](./images/verisk_icon.png "resume-icon") Verisk Analytics
 
 *Software Developer \| Jersey City, NJ \| August 2018 - January 2020*
 * Full stack web development and batch processing using .NET Framework, .NET Core, AngularJS, and Java
 * Integration with AWS services (EC2, Batch, Lambda, SQS, API Gateway, ElasticSearch)
 
-### ![New Concepts for Living](/images/ncfl_icon.jpeg "resume-icon") New Concepts for Living
+### ![New Concepts for Living](./images/ncfl_icon.png "resume-icon") New Concepts for Living
 
 *Software Consultant \| Rochelle Park, NJ \| June 2018 - June 2019*
 * Full stack web development and batch processing using .NET Core and Angular 7
 
-### ![UPS](/images/ups_icon.jpeg "resume-icon") United Parcel Service (UPS)
+### ![UPS](./images/ups_icon.png "resume-icon") United Parcel Service (UPS)
 
 *Human Resources Analytics Co-op \| Timonium, MD \| September 2017 - January 2018*
 * Full stack web development using .Net Web Forms
@@ -55,7 +56,7 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 
 ## Education
 
-### ![Loyola University Maryland](/images/loyola_icon.jpeg "resume-icon") Loyola University Maryland
+### ![Loyola University Maryland](./images/loyola_icon.webp "resume-icon") Loyola University Maryland
 
 *Baltimore, MD \| Class of 2018*
 * Bachelor of Science, Magna Cum Laude, Computer Science
@@ -63,7 +64,7 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 * Presidential Scholar
 * Upsilon Pi Epsilon (UPE) Computer Science Honor Society
 
-### ![Bergen Catholic High School](/images/bergen_icon.jpeg "resume-icon") Bergen Catholic High School
+### ![Bergen Catholic High School](./images/bergen_catholic_icon.webp "resume-icon") Bergen Catholic High School
 
 *Oradell, NJ \| Class of 2014*
 
