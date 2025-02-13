@@ -4,9 +4,14 @@ title = "Resume"
 
 ## Work Experience
 
+### ![Meta](./images/meta_icon.png "resume-icon") Meta
+
+*Software Engineer \| New York, NY \| April 2024 - Present*
+* Full stack development on Central Product Foundations team
+
 ### ![Amount](./images/amount_icon.png "resume-icon") Amount Small Business 
 
-*Lead Software Engineer \| New York, NY (Remote) \| May 2022 - Present*
+*Lead Software Engineer \| New York, NY (Remote) \| May 2022 - April 2024*
 * Lead a team of 3 to 5 backend engineers responsible for delivering core platform features on time
 * Architect scalable and high-performance solutions to satisfy business requirements within the scope of Amount’s rapidly evolving white label credit origination platform
 * Collaboratively led multiple key technology improvement initiatives, including the migration to using Temporal for workflow orchestration resulting in improved efficiency, visibility, and resiliency
