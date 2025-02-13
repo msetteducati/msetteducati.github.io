@@ -72,15 +72,3 @@ Now a part of Amount, my role has been carried through from Fundation, to Linear
 ### ![Bergen Catholic High School](./images/bergen_catholic_icon.webp "resume-icon") Bergen Catholic High School
 
 *Oradell, NJ \| Class of 2014*
-
-## Projects
-
-### Quantitative Model Validation
-
-* Developed web application used to quantitatively validate simulation models using Angular, Python, and Flask. 
-* Related paper was published at the Summer Simulation Conference in 2018. 
-* See [Research](/research) for more information.
-
-<br>
-
-[Download Resume PDF]({% link /assets/Michael_Setteducati_Resume.pdf %}){:target="_blank"}
