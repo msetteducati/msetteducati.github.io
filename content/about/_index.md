@@ -2,10 +2,8 @@
 title = "About"
 +++
 
-## Welcome, my name is Michael
+## Hi there, my name is Mike
 
-I am a Lead Software Engineer at Amount, primarily working on architecting and implementing backend microservices written in Java and Golang. 
+I am a Software Engineer at Meta within the Central Product Foundations org. I primarily work on product infra related to youth safety. 
 
-I graduated from Loyola University Maryland with a Bachelor of Science Degree in Computer Science.
-
-Feel free to check out my resume or read about the research project I did. 
+Previously, I was a Lead Software Engineer at Amount, where I primarily worked on designing and implementing backend microservices written in Java and Go. 
