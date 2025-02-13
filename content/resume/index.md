@@ -1,5 +1,6 @@
 +++
 title = "Resume"
+# ToDo: Update PDF resume to include meta role, then add link to pdf
 +++
 
 ## Work Experience
