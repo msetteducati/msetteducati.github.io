@@ -7,6 +7,7 @@ publishDir: docs # required for github pages
 params:
   author: Michael Setteducati
   description: Michael Setteducati's personal website
+  faviconSVG: favicon.ico
   info: 
     - Software Engineer @ Meta
   avatarURL: images/profile.png
