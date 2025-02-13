@@ -8,7 +8,7 @@ params:
   description: Michael Setteducati's personal website
   info: 
     - Software Engineer @ Meta
-  avatarURL: images/profile.jpg
+  avatarURL: images/profile.png
   customCSS: 
     - css/michaelsetteducati.css
   social:
